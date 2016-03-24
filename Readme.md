@@ -1,7 +1,7 @@
 # Личный проект «Код и Магия» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Pavel Bondarenko](https://up.htmlacademy.ru/javascript/4/user/161376).
-* Наставник: `Неизвестно`.
+* Студент: [Pavel Bondarenko](https://htmlacademy.ru/profile/id161376).
+* Наставник: `Иван Васильев`.
 
 ---
 
